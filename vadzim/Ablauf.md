@@ -1,14 +1,16 @@
-# Platzhalter #
+# ABLAUF, VADZIM #
 
 ## M00 | WARMING UP ##
 
-- [ ] Folien: Greeter
-- [ ] Link: [Visual Studio Code](https://code.visualstudio.com/)
-- [ ] [vsc-shortcuts.md](SHORTCUTS-VSCODE.md)
-- [ ] Link: [Git](https://git-scm.com)
-- [ ] [git-commands.md](GIT-COMMANDS.md)
-- [ ] [textEditorShortcuts.md](SHORTCUTS-EDITOR.md)
+- [x] Folien: Greeter
+- [x] Demo: [markdown](markdown.md)
+- [x] Link: [Visual Studio Code](https://code.visualstudio.com/)
+- [x] [vsc-shortcuts.md](SHORTCUTS/SHORTCUTS-VSCODE.md)
+- [x] Link: [Git](https://git-scm.com)
+- [x] [textEditorShortcuts.md](SHORTCUTS/SHORTCUTS-EDITOR.md)
 - [ ] [commit]()
+
+---
 
 ## M01 | GETTING STARTED ##
 
@@ -21,6 +23,10 @@
 - [ ] Demo: wenn gewünscht [emmet](typescript/M01-Demo-Helloworld/emmet.html)
 - [ ] [commit]()
 
+---
+
+<!--
+
 ## MXX | TYPES ##
 
 - [ ] [primitives, type object, typeof, casting]()
@@ -30,6 +36,8 @@
 - [ ] [Ü Taschenrechner]()
 - [ ] [commit]()
 
+---
+
 ## MXX | FUNCTIONS ##
 
 - [ ] return type
@@ -38,12 +46,16 @@
 - [ ] [demo]()
 - [ ] [commit]()
 
+---
+
 ## MXX | DATA STRUCTURES ##
 
 - [ ] [arrays]()
 - [ ] [Ü arrays]()
 - [ ] [tuple / Tupel]()
 - [ ] [commit]()
+
+---
 
 ## MXX | UNION TYPE & LITERAL TYPE ##
 
@@ -52,12 +64,16 @@
 - [ ] [Ü Pizzabestellung]()
 - [ ] [commit]()
 
+---
+
 ## MXX | INTERFACES ##
 
 - [ ] [interfaces]()
 - [ ] [Ü Todos]()
 - [ ] [commit]()
 
-## MXX | TYPE NARROWING & TYPE GUARDS ##
+---
 
+## MXX | TYPE NARROWING & TYPE GUARDS ##
+ -->
 <!-- promise -->
