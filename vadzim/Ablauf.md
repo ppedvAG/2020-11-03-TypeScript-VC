@@ -16,31 +16,32 @@
 
 ## M01 | GETTING STARTED ##
 
-- [ ] Folien: TS > [getting started](SLIDES/TYPESCRIPT.md#getting-started)
-- [ ] Link: [npm home](https://www.npmjs.com/)
-- [ ] Demo: [helloTS](getting-started/hellots.ts)
-- [ ] Übung: [login form](getting-started/login.ts)
-- [ ] [commit]()
-- [ ] Demo: wenn gewünscht [emmet]()
-- [ ] Demo: wenn gewünscht [js Dom Traversing]()
+- [x] Folien: TS > [getting started](SLIDES/TYPESCRIPT.md#getting-started)
+- [x] Link: [npm home](https://www.npmjs.com/)
+- [x] Demo: [helloTS](getting-started/hellots.ts)
+- [x] Übung: [login form](getting-started/login.ts)
+- [x] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/0082a2225498095e0aa533274db9fecd87741d0e)
+
+<!-- - [ ] Demo: wenn gewünscht [emmet]()
+- [ ] Demo: wenn gewünscht [js Dom Traversing]() -->
 
 ---
 
+## M02 | TYPES ##
+
+- [x] Theorie: [types](SLIDES/TYPESCRIPT.md##types)
+- [x] Demo: [primitives](types/primitives.ts)
+- [x] Übung: [Taschenrechner](types/rechner.ts)
+- [x] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
+- [x] [commit]()
+
 <!--
-
-## MXX | TYPES ##
-
-- [ ] [primitives, type object, typeof, casting]()
-- [ ] [casting]()
-- [ ] [assertion]()
-- [ ] [any vs. unknown]()
-- [ ] [Ü Taschenrechner]()
-- [ ] [commit]()
 
 ---
 
 ## MXX | FUNCTIONS ##
 
+- [ ] Theorie:
 - [ ] return type
 - [ ] function type
 - [ ] generic function
@@ -51,6 +52,7 @@
 
 ## MXX | DATA STRUCTURES ##
 
+- [ ] Theorie:
 - [ ] [arrays]()
 - [ ] [Ü arrays]()
 - [ ] [tuple / Tupel]()
@@ -60,6 +62,7 @@
 
 ## MXX | UNION TYPE & LITERAL TYPE ##
 
+- [ ] Theorie:
 - [ ] [union type & string literal type]()
 - [ ] [enums]()
 - [ ] [Ü Pizzabestellung]()
@@ -69,6 +72,7 @@
 
 ## MXX | INTERFACES ##
 
+- [ ] Theorie:
 - [ ] [interfaces]()
 - [ ] [Ü Todos]()
 - [ ] [commit]()
