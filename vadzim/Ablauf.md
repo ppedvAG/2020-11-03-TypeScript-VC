@@ -35,6 +35,8 @@
 - [x] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
 - [x] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/444b2cf642aa34dc44f9c660a21c996503479654)
 
+---
+
 ## M03 | FUNCTIONS ##
 
 - [x] Theorie: [functions](SLIDES/TYPESCRIPT.md#functions)
@@ -43,21 +45,18 @@
 - [x] generic function
 - [x] Demo: [functions](functions/functions.ts)
 - [x] Übung: [fetch-todos](functions/fetch-todos.ts)
-- [x] [commit]()
+- [x] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/107d3351ec01dab5f3fc01c43cf7d5719d17ac3f)
+
+---
+
+## M05 | DATA STRUCTURES ##
+
+- [ ] Theorie & Demo: [arrays]()
+- [ ] Demo: [tuples](tuples/tuples.ts)
+- [ ] [Ü arrays]()
+- [ ] [commit]()
 
 <!--
-
----
-
----
-
-## MXX | DATA STRUCTURES ##
-
-- [ ] Theorie:
-- [ ] [arrays]()
-- [ ] [Ü arrays]()
-- [ ] [tuple / Tupel]()
-- [ ] [commit]()
 
 ---
 
@@ -81,5 +80,6 @@
 ---
 
 ## MXX | TYPE NARROWING & TYPE GUARDS ##
+
  -->
 <!-- promise -->
