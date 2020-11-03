@@ -29,24 +29,25 @@
 
 ## M02 | TYPES ##
 
-- [x] Theorie: [types](SLIDES/TYPESCRIPT.md##types)
+- [x] Theorie: [types](SLIDES/TYPESCRIPT.md#types)
 - [x] Demo: [primitives](types/primitives.ts)
 - [x] Übung: [Taschenrechner](types/rechner.ts)
 - [x] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
+- [x] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/444b2cf642aa34dc44f9c660a21c996503479654)
+
+## M03 | FUNCTIONS ##
+
+- [x] Theorie: [functions](SLIDES/TYPESCRIPT.md#functions)
+- [x] return type
+- [x] function type
+- [x] generic function
+- [x] Demo: [functions](functions/functions.ts)
+- [x] Übung: [fetch-todos](functions/fetch-todos.ts)
 - [x] [commit]()
 
 <!--
 
 ---
-
-## MXX | FUNCTIONS ##
-
-- [ ] Theorie:
-- [ ] return type
-- [ ] function type
-- [ ] generic function
-- [ ] [demo]()
-- [ ] [commit]()
 
 ---
 
