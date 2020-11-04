@@ -51,8 +51,8 @@
 
 ## M05 | DATA STRUCTURES ##
 
-- [ ] Theorie & Demo: [arrays]()
-- [ ] Demo: [tuples](tuples/tuples.ts)
+- [x] arrays
+- [x] Demo: [tuples](tuples/tuples.ts)
 - [ ] [Ü arrays]()
 - [ ] [commit]()
 
