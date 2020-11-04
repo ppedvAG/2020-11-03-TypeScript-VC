@@ -1,12 +1,13 @@
 "use strict";
 // Arrow Function
-class Person {
-    constructor() {
+var Person = /** @class */ (function () {
+    function Person() {
+        var _this = this;
         this.firstName = '';
         this.lastName = '';
         // ausführlich
-        this.giveFullName = () => {
-            return this.firstName + this.lastName;
+        this.giveFullName = function () {
+            return _this.firstName + _this.lastName;
         };
         // verkürzt
         // giveFullName: Function =  (): string => this.firstName + this.lastName
@@ -19,10 +20,11 @@ class Person {
             }
          */
     }
-}
+    return Person;
+}());
 // ======================================================================
 // GENERIC FUNCTIONS
-let myStringsArray = ['str1', 'str2'];
+var myStringsArray = ['str1', 'str2'];
 function createArray(el1, el2, el3) {
     // return [el1, el2, el3]
     return new Array(el1, el2, el3);
@@ -34,8 +36,12 @@ function createArray(el1, el2, el3) {
     return newArray;
 } */
 // das Gleiche in Pfeil-Syntax
-let createAnyArray = (...someElements) => {
-    let newArray = someElements;
+var createAnyArray = function () {
+    var someElements = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        someElements[_i] = arguments[_i];
+    }
+    var newArray = someElements;
     return newArray;
 };
 console.log('createAnyArray(1, 2) :>> ', createAnyArray(1, 2));

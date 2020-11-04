@@ -7,7 +7,7 @@
 1 input/ output als ausgabe
 */
 function berechne(z1, z2, op) {
-    let result = NaN;
+    var result = NaN;
     switch (op) {
         case '+':
             result = z1 + z2;

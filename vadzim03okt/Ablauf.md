@@ -7,7 +7,7 @@
 - [x] Folien: Greeter
 - [x] Demo: [markdown](markdown.md)
 - [x] Link: [Visual Studio Code](https://code.visualstudio.com/)
-- [x] [vsc-shortcuts.md](SHORTCUTS/SHORTCUTS-VSCODE.md)
+- [x] [vsc-shortcuts.md](shortcuts/shortcuts-vscode.md)
 - [x] Link: [Git](https://git-scm.com)
 - [x] [textEditorShortcuts.md](SHORTCUTS/SHORTCUTS-EDITOR.md)
 - [x] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/825a20f4018e721c290fd8ae9106d5e1729e48f3)
@@ -16,7 +16,7 @@
 
 ## M01 | GETTING STARTED ##
 
-- [x] Folien: TS > [getting started](SLIDES/TYPESCRIPT.md#getting-started)
+- [x] Folien: TS > [getting started](slides/typescript.md#getting-started)
 - [x] Link: [npm home](https://www.npmjs.com/)
 - [x] Demo: [helloTS](getting-started/hellots.ts)
 - [x] Übung: [login form](getting-started/login.ts)
@@ -29,7 +29,7 @@
 
 ## M02 | TYPES ##
 
-- [x] Theorie: [types](SLIDES/TYPESCRIPT.md#types)
+- [x] Theorie: [types](slides/typescript.md#types)
 - [x] Demo: [primitives](types/primitives.ts)
 - [x] Übung: [Taschenrechner](types/rechner.ts)
 - [x] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
@@ -39,7 +39,7 @@
 
 ## M03 | FUNCTIONS ##
 
-- [x] Theorie: [functions](SLIDES/TYPESCRIPT.md#functions)
+- [x] Theorie: [functions](slides/typescript.md#functions)
 - [x] return type
 - [x] function type
 - [x] generic function
@@ -51,9 +51,19 @@
 
 ## M05 | DATA STRUCTURES ##
 
-- [x] arrays
-- [x] Demo: [tuples](tuples/tuples.ts)
-- [ ] [Ü arrays]()
+- [x] Demo: [arrays](structures/arrays.ts)
+- [x] Demo: [tuples](structures/tuples.ts)
+- [x] Übung: [arrays](structures/ue-array-iteration.ts)
+- [x] Demo: [objects](structures/objects.ts)
+- [ ] [commit]()
+<!-- - [ ] Map & Set? -->
+
+---
+
+## M06 | AMBIENTS (NAMESPASES / MODULES) ##
+
+- [ ] Theorie:
+- [ ] Demo: [namespaces](ambients/namespaces.ts)
 - [ ] [commit]()
 
 <!--
@@ -70,6 +80,14 @@
 
 ---
 
+## MXX | CLASSES
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+---
+
 ## MXX | INTERFACES ##
 
 - [ ] Theorie:
@@ -79,7 +97,34 @@
 
 ---
 
+## MXX | DECORATORS
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+---
+
+## MXX | promise?
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+---
+
+## MXX | service worker?
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+---
+
 ## MXX | TYPE NARROWING & TYPE GUARDS ##
 
- -->
-<!-- promise -->
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+-->

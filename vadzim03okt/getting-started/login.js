@@ -7,6 +7,6 @@ Jedes Passwort wird erstmal akzeptiert.
 Viel Erfolg!
 */
 function login() {
-    let u = document.getElementById('user').value;
+    var u = document.getElementById('user').value;
     document.getElementById('hi').textContent = "Hello " + u;
 }
