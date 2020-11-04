@@ -60,14 +60,14 @@ var myNever;
 // myNever = undefined; // akzeptiert auch kein undefined
 // myNever = null; // akzeptiert auch kein null
 //#region withNever
-function werfeFehlerNever(message) {
-    throw new Error(message);
-}
-function testeNever2() {
-    return werfeFehlerNever("Test Fehlermeldung 2");
-}
+// function werfeFehlerNever(message:string): never {
+//     throw new Error(message);
+// }
+// function testeNever2() {
+//     return werfeFehlerNever("Test Fehlermeldung 2")
+// }
 // document.getElementById('outp2')!.textContent += testeNever2() + " string";
-document.getElementById('outp2').textContent += typeof testeNever2() + " string";
+// document.getElementById('outp2')!.textContent += typeof testeNever2() + " string";
 // console.log('testeNever2() :>> ', testeNever2()); // Uncaught Error: Test Fehlermeldung 2
 //#endregion withNever
 /* todo #1 */

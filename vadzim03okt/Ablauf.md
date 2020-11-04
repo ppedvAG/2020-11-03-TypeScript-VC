@@ -49,34 +49,35 @@
 
 ---
 
-## M05 | DATA STRUCTURES ##
+## M04 | DATA STRUCTURES ##
 
 - [x] Demo: [arrays](structures/arrays.ts)
 - [x] Demo: [tuples](structures/tuples.ts)
 - [x] Übung: [arrays](structures/ue-array-iteration.ts)
 - [x] Demo: [objects](structures/objects.ts)
-- [ ] [commit]()
+- [ ] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/3c638a2f297aaed789bdccdcc2506132c3998ada)
 <!-- - [ ] Map & Set? -->
 
 ---
 
-## M06 | AMBIENTS (NAMESPASES / MODULES) ##
+## M05 | CUSTOM PRIMITIVES ##
+
+- [x] Theorie & Demo: [union](types/unions.ts)
+- [x] Theorie & Demo: [literal type](types/literaltypes.ts)
+- [x] Theorie & Demo: [enum](types/enums.ts)
+- [x] Übung: [Pizzabestellung](types/ue-pizza.ts)
+- [x] [commit]()
+
+---
+
+## M05 | AMBIENTS (NAMESPASES / MODULES) ##
 
 - [ ] Theorie:
 - [ ] Demo: [namespaces](ambients/namespaces.ts)
 - [ ] [commit]()
 
+
 <!--
-
----
-
-## MXX | UNION TYPE & LITERAL TYPE ##
-
-- [ ] Theorie:
-- [ ] [union type & string literal type]()
-- [ ] [enums]()
-- [ ] [Ü Pizzabestellung]()
-- [ ] [commit]()
 
 ---
 
