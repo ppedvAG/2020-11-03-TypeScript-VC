@@ -66,7 +66,7 @@
 - [x] Theorie & Demo: [literal type](types/literaltypes.ts)
 - [x] Theorie & Demo: [enum](types/enums.ts)
 - [x] Übung: [Pizzabestellung](types/ue-pizza.ts)
-- [x] [commit]()
+- [x] [commit](https://github.com/ppedvAG/2020-11-03-TypeScript-VC/commit/c0de2141dbac4de6a35cc143defce701aaf71a54)
 
 ---
 
@@ -76,25 +76,23 @@
 - [ ] Demo: [namespaces](ambients/namespaces.ts)
 - [ ] [commit]()
 
+---
 
-<!--
+## M06 | DECLARATION FILES ##
+
+- [x] Link: <https://definitelytyped.org/>
+- [x] Demo: [declare](declarations/declarations.ts)
 
 ---
 
-## MXX | CLASSES
+## M07 | CLASSES & INTERFACES ##
 
 - [ ] Theorie:
 - [ ] Demo:
-- [ ] [commit]()
-
----
-
-## MXX | INTERFACES ##
-
-- [ ] Theorie:
 - [ ] [interfaces]()
-- [ ] [Ü Todos]()
 - [ ] [commit]()
+
+<!--
 
 ---
 
